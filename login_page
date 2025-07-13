@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login Page - India</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+
+    <div class="info-panel">
+      <div class="time">🕒 IST Time: 03:45 PM</div>
+      <div class="weather">⛅ Weather: 32°C, Sunny (Delhi)</div>
+    </div>
+
+    <form class="login-box" action="#" method="POST">
+      <h2>Login</h2>
+      <input type="text" name="username" placeholder="Enter Username" required>
+      <input type="password" name="password" placeholder="Enter Password" required>
+      <button type="submit">Login</button>
+    </form>
+
+  </div>
+</body>
+</html>
+
